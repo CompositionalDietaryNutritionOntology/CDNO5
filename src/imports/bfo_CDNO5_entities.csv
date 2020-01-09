@@ -1,0 +1,3 @@
+ID,Method,Related entities,Exclude,Ignore
+BFO:'material entity',single,ancestors,,
+BFO:'process',single,ancestors,,

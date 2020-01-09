@@ -1,0 +1,78 @@
+ID,Method,Related entities,Exclude,Ignore,name
+CHEBI:28017,single,,,,starch
+CHEBI:28057,single ,,,,amylopectin
+CHEBI:17234,single,ancestors ,,,glucose
+CHEBI:28102,single,,,,amylose
+CHEBI:28757,single,,,,fructose
+CHEBI:17992,single,,,,sucrose
+CHEBI:17306,single,,,,maltose
+CHEBI:62967,single,,,,amorphous cellulose
+CHEBI:61266,single,,,,hemicellulose
+CHEBI:28808 ,single,,,,mannan
+CHEBI:37684 ,single,,,,mannose
+CHEBI:37166,single,,,,xylan
+CHEBI:18222,single,,,,xylose
+CHEBI:18233,single,,,,xyloglucan
+CHEBI:17020,single,,,,glucomannan
+CHEBI:28427,single,,,,arabinoxylan
+CHEBI:22599,single,,,,arabinose
+CHEBI:28796,single,,,,fructan
+CHEBI:15443,single,,,,inulin
+CHEBI:17309,single,,,,pectin
+CHEBI:24174,single,,,,galacturonan
+CHEBI:33830,single,,,,galacturonic acid 
+CHEBI:26543,single,,,,rhamnogalacturonan
+CHEBI:26546,single,,,,rhamnose
+CHEBI:16689,single,,,,D-apiose
+CHEBI:33984,single,,,,fucose
+CHEBI:18222,single,,,,xylose
+CHEBI:22599,single,,,,arabinose
+CHEBI:28260,single,,,,galactose
+CHEBI:74961,single,,,,raffinose family oligosaccharide
+CHEBI:16634,single,,,,raffinose
+CHEBI:17164,single,,,,stachyose
+CHEBI:28586,single,,,,verbascose
+CHEBI:33579,single,,T,,main group molecular entity
+CHEBI:33675,single,,T,,
+CHEBI:33582,single,,T,,
+CHEBI:50860,single,,T,,
+CHEBI:33285,single,,T,,
+CHEBI:36962,single,,T,,
+CHEBI:36963,single,,T,,
+CHEBI:78616,single,,T,,
+CHEBI:33304,single,,T,,
+CHEBI:25806,single,,T,,
+CHEBI:33917,single,,T,,
+CHEBI:2558,single,,T,,
+CHEBI:15693,single,,T,,
+CHEBI:13755,single,,T,,
+CHEBI:22305,single,,T,,
+CHEBI:18133,single,,T,,
+CHEBI:14399,single,,T,,
+CHEBI:35381,single,,T,,monosaccharide
+CHEBI:23367,single,,T,,molecular entity
+CHEBI:36080,single,,,,protein
+CHEBI:29016 ,single,,,,arginine
+CHEBI:27570,single,,,,histidine
+CHEBI:24898,single,,,,isoleucine
+CHEBI:25017,single,,,,leucine
+CHEBI:25094,single,,,,lysine
+CHEBI:16811 ,single,,,,methionine
+CHEBI:28044,single,,,,phenylalanine
+CHEBI:26986,single,,,,threonine
+CHEBI:27897,single,,,,tryptophan
+CHEBI:27266,single,,,,valine
+CHEBI:16449,single,,,,alanine
+CHEBI:22653,single,,,,asparagine
+CHEBI:22660 ,single,,,,aspartic acid
+CHEBI:15356,single,,,,cysteine
+CHEBI:28300,single,,,,glutamine
+CHEBI:18237,single,,,,glutamic acid
+CHEBI:15428,single,,,,glycine
+CHEBI:26271,single,,,,proline
+CHEBI:17822,single,,,,serine
+CHEBI:18186,single,,,,tyrosine
+CHEBI:18059,single,,,,lipid
+CHEBI:17855 ,single,,,,triglyceride
+CHEBI:35366 ,single,,,,fatty acid
+CHEBI:26607 ,single,,,,saturated fatty acid

@@ -1,0 +1,5 @@
+ID,Method,Related entities,Exclude,Ignore,name
+PATO:0000001,single,,,,quality
+PATO:0000033,single,ancestors,,,concentration of
+PATO:0001241,single,,T,,physical object quality
+PATO:0002182,single,,T,,molecular quality

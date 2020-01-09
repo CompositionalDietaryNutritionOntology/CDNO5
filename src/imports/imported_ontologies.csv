@@ -1,0 +1,6 @@
+Name,IRI,Entities file,Ignore
+Relation Ontology,http://purl.obolibrary.org/obo/ro.owl,,
+Basic Formal Ontology,http://purl.obolibrary.org/obo/bfo.owl,bfo_CDNO5_entities.csv,
+Phenotype And trait Ontology,http://purl.obolibrary.org/obo/pato.owl,pato_CDNO5_entities.csv,
+Plant Ontology,http://purl.obolibrary.org/obo/po.owl,po_CDNO5_entities.csv,
+Chemical Entities for Biological Interest,http://purl.obolibrary.org/obo/chebi.owl,chebi_CDNO5_entities.csv,

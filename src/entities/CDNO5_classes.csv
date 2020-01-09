@@ -1,0 +1,16 @@
+ID,Type,Label,Parent,Text definition,Comments,Subclass of,Equivalent to,Disjoint with,Ignore
+CDNO:0000001,Class,dietary component ,'chemical entity',,,,,,
+CDNO:0000002,Class,digestible carbohydrate,'carbohydrate',Also known as available {carbohydrate} corresponds to fractions of total carbohydrate that is digestible to provide energy. ,,,,,
+CDNO:0000003,Class,non digestible carbohydrate,'carbohydrate',"{carbohydrate} components which are not easily digestible, and form major part of dietary fibre (TDF)",,,,,
+CDNO:0000004,Class,salt soluble protein,'protein',,,,,,
+CDNO:0000005,Class,water soluble protein,'protein',,,,,,
+CDNO:0000006,Class,amino acid,'protein',,,,,,
+CDNO:0010000,Class,plant dietary trait,PATO:0000001,,,,,,
+CDNO:0010001,Class,seed carbohydrate concentration,'plant dietary trait',,,,"PATO:'concentration of' and 
+'inheres in' some ('seed' and
+'towards' some 'carbohydrate')",,
+CDNO:0010002,Class,free sugar,'digestible carbohydrate',"Mono-, di-, or oligosaccharides that are naturally occur freely, not bound or part of larger polysaccharides ",,,,,
+CDNO:0010003,Class,seed protein concentration,'plant dietary trait',,,,"PATO:'concentration of' and 
+'inheres in' some ('seed' and
+'towards' some 'protein')",,
+CDNO:0010004,Class,seed lipid concentration,'plant dietary trait',,,,,,
